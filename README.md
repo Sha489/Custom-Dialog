@@ -2,14 +2,14 @@
 
 Hello, 
 
-Create your own Custom Dialog.
+Create your own Custom Dialog.<br />
 
-/
+
 ## Declaration:-
 
-CustomDialog customDialog;
+CustomDialog customDialog;<br />
 
-/
+
 
 ## Custom Dialog with Image.
 
@@ -21,9 +21,9 @@ CustomDialog customDialog;
   
   customDialog.setImageUrl("https://i.pinimg.com/originals/67/ac/a8/67aca82baa85cdbc23f501aa921f362a.png");
   
-  customDialog.createDialog();
+  customDialog.createDialog();<br />
 
-/
+
 
 ## Custom Dialog with animation.
 
@@ -35,10 +35,10 @@ CustomDialog customDialog;
   
   customDialog.setLottieAnimation("https://assets7.lottiefiles.com/packages/lf20_fpxnx6ry.json");
   
-  customDialog.createDialog();
+  customDialog.createDialog();<br />
   
 
-/
+
 ## Dependencies
 
 allprojects {
