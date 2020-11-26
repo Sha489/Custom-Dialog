@@ -1,0 +1,3 @@
+include ':CustomDialog'
+include ':app'
+rootProject.name = "Dialog"
