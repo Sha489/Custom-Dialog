@@ -4,12 +4,12 @@ Hello,
 
 Create your own Custom Dialog.
 
-\
+/
 ## Declaration:-
 
 CustomDialog customDialog;
 
-\
+/
 
 ## Custom Dialog with Image.
 
@@ -23,7 +23,7 @@ CustomDialog customDialog;
   
   customDialog.createDialog();
 
-\
+/
 
 ## Custom Dialog with animation.
 
@@ -38,7 +38,7 @@ CustomDialog customDialog;
   customDialog.createDialog();
   
 
-\
+/
 ## Dependencies
 
 allprojects {
