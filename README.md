@@ -4,10 +4,10 @@ Hello,
 
 Create your own Custom Dialog.
 
-##Declaration:-
+**Declaration:-**
 CustomDialog customDialog;
 
-Custom Dialog with Image. 
+**Custom Dialog with Image.** 
   customDialog = new CustomDialog(MainActivity.this, false); //false to show image
   customDialog.setHeading("Congratulations");
   customDialog.setDescription("You subscription is successfully.. You can continue to enjoy by watching videos");
@@ -15,7 +15,7 @@ Custom Dialog with Image.
   customDialog.createDialog();
 
 
-Custom Dialog with animation.
+**Custom Dialog with animation.**
   customDialog = new CustomDialog(MainActivity.this, true); //true refer to show animation
   customDialog.setHeading("Congratulations");
   customDialog.setDescription("You subscription is successfully.. You can continue to enjoy by watching videos");
@@ -23,7 +23,7 @@ Custom Dialog with animation.
   customDialog.createDialog();
 
 
-Dependencies
+**Dependencies**
 
 allprojects {
 		repositories {
