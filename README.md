@@ -4,7 +4,7 @@ Hello,
 
 Create your own Custom Dialog.
 
-Declaration:-
+##Declaration:-
 CustomDialog customDialog;
 
 Custom Dialog with Image. 
