@@ -4,13 +4,13 @@ Hello,
 
 Create your own Custom Dialog.
 
-**Declaration:-**
+## Declaration:-
 
 CustomDialog customDialog;
 
 
 
-**Custom Dialog with Image.** 
+## Custom Dialog with Image.
 
   customDialog = new CustomDialog(MainActivity.this, false); //false to show image
   
@@ -24,7 +24,7 @@ CustomDialog customDialog;
 
 
 
-**Custom Dialog with animation.**
+## Custom Dialog with animation.
 
   customDialog = new CustomDialog(MainActivity.this, true); //true refer to show animation
   
@@ -38,7 +38,7 @@ CustomDialog customDialog;
   
 
 
-**Dependencies**
+## Dependencies
 
 allprojects {
 
